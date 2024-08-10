@@ -1,0 +1,10 @@
+/*
+    1) By tagname: cy.get('tagname');
+    2) By ID value: cy.get('#idValue');
+    3) By Class value: cy.get('.classValue');
+    4) By Attribute Name: cy.get('[attributeName]');
+    5) By Attribute Name and its Value: cy.get('[attributeName="attributeValue"]');
+    6) By Entire Class Values: cy.get('[class="class-value1class-value2class-value3"]');
+    7) By two attribute names and their values: cy.get('[attributeName1="attributeValue1"][attributeName2="attributeValue2"]');
+    8) By tag, attribute, class: cy.get('tagname[attributeName="attributeValue"].classValue');
+;*/
